@@ -17,8 +17,9 @@
 
 ## 2. 프로젝트 개요
 
-### - 프로젝트 명 : 
-
+### - 프로젝트 명 
+# **🐸GRIN🐸** – Green + Infomation
+친환경차(green)에 대한 정보(infomation)를 제공하는 사이트 제공
 <br>
 <br>
 
@@ -26,6 +27,7 @@
 연도별 지역별 보조금 변동에 따른 친환경차 등록 현황 비교 및 전기차 충전 및 차량에 대한 기업 FAQ조회 
 <br>
 <br>
+
 ### - 프로젝트 필요성(배경)
 
 > 자동차  및  이륜차에  의해  배출되는 탄소화합물과  질소화합물이  각각  78%,  35.6%  이며  46%  이상의  미세먼지도  자동차  또는  이륜차가  원인이  되고  있다
@@ -45,6 +47,7 @@
 이에 저희 팀은 전기차 보조금이 전기차 등록에 주는 영향을 확인하며, 보조금과 전기차의 연관성을 파악하고자 합니다.
 <br>
 <br>
+
 ### - 프로젝트 목표 
 연도별 친환경 자동차의 보조금과 신규 친환경 차량 등록 간에 비교를 통해 전기차 캐즘을 벗어나 
 친환경 차량 증가에 영향을 주는 요인 파악
@@ -52,19 +55,9 @@
 -----
 
 ## 3. 기술 스택
-|제목|기술|
-|---|---|
-|Python|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|
-|MySQL|<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">|
-|Github|<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">|
-|Pandas|<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">|
-|Matplotlib|<img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black'>|
-|Streamlit|<img src='https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white'>
-|Selenium|<img src='https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white'>|
-
 |Python|MySQL|Github|Pandas|Matplotlib|Streamlit|Selenium|
 |---|---|---|---|---|---|---|
-|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">|<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">|<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">|<img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black'>|<img src='https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white'>|<img src='https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white'>|<img src='https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white'>|
+|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">|<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">|<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">|<img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black'>|<img src='https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white'>|<img src='https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white'>|
 
 -----
 
