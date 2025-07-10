@@ -52,11 +52,20 @@
 -----
 
 ## 3. 기술 스택
+|제목|기술|
+|---|---|
+|Python|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|MySQL|<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">|
+|GIthub|<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">|
+|Pandas|<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">|
+|Matplotlib|<img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black'>|
+|Streamlit|<img src='https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white'>
+
 
 -----
 
 ## 4. WBS
-
+![WBS이미지](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-07-10%20105244.png)
 
 ## 5. 요구사항 명세서
 
