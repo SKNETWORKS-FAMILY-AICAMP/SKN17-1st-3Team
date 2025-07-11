@@ -27,8 +27,8 @@
 # 2. 프로젝트 개요
 
 ### - 프로젝트 명 
-# **🐸GRIN🐸** – Green + Infomation
-친환경차(green)에 대한 정보(infomation)를 제공하는 사이트 제공
+# **🐸GRIN🐸** – Green + Information
+친환경차(green)에 대한 정보(information)를 제공하는 사이트 제공
 <br>
 <br>
 
