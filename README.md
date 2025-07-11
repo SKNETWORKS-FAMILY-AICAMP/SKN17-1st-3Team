@@ -100,8 +100,8 @@
 -----
 
 # 7. 수행결과(시연 페이지)
-## [STREAMLIT 구현화면]
-### - 연도별, 지역별 친환경 차량 현황 및 보조금 현황 시각화 
+##              [STREAMLIT 구현화면]
+## - 연도별, 지역별 친환경 차량 현황 및 보조금 현황 시각화 
 
 ![메인](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/1.png)
 <br>
@@ -128,7 +128,7 @@
 <br>
 <br>
 
-### - 기업별 FAQ
+## - 기업별 FAQ
 ![9](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/9.png)
 <br>
 
