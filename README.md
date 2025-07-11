@@ -129,14 +129,14 @@
 -----
 
 # 5. 요구사항 명세서
-![요구사항이미지](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%AA%85%EC%84%B8%EC%84%9C.png)
+![요구사항이미지](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%AA%85%EC%84%B8%EC%84%9C_2.png)
 <br>
 <br>
 
 -----
 
 # 6. ERD
-![1차 프로젝트 ERD](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/1%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20ERD.png)
+![1차 프로젝트 ERD](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/erd.png)
 <br>
 <br>
 
@@ -146,10 +146,10 @@
 ##              [STREAMLIT 구현화면]
 ## ▶️ 연도별, 지역별 친환경 차량 현황 및 보조금 현황 시각화 
 
-![메인](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/1.png)
+![메인](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/1.png)
 <br>
 
-![2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/2.png)
+![2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/2.png)
 <br>
 
 ![3](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/3.png)
@@ -158,7 +158,7 @@
 ![4](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/4.png)
 <br>
 
-![5](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/5.png)
+![5](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/5.png)
 <br>
 
 ![6](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/6.png)
@@ -167,18 +167,18 @@
 ![7](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/7.png)
 <br>
 
-![8](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/8.png)
+![8](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/8.png)
 <br>
 <br>
 
 ## ▶️ 기업별 FAQ
-![9](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/9.png)
+![9](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/9.png)
 <br>
 
 ![10](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/10.png)
 <br>
 
-![11](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/11.png)
+![11](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/11.png)
 
 <br>
 <br>
