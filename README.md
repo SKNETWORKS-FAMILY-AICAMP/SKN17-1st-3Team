@@ -166,12 +166,12 @@
 
 ![7](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/7.png)
 <br>
-
-![8](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/8.png)
-<br>
 <br>
 
 ## ▶️ 기업별 FAQ
+![8](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/8.png)
+<br>
+
 ![9](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/9.png)
 <br>
 
