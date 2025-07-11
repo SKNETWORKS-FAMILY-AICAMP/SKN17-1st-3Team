@@ -178,7 +178,7 @@
 ![10](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/10.png)
 <br>
 
-![11](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/11.png)
+![11](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit_2/12.png)
 
 <br>
 <br>
