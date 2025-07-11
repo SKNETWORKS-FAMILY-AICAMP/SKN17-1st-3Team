@@ -1,9 +1,9 @@
-# SK네트웍스 Family AI 캠프 17기 1차 프로젝트_ 3Team
+# 🟦 SK네트웍스 Family AI 캠프 17기 1차 프로젝트_ 3Team 🟦
 
 
 
-# 1. 팀 소개
-### - 팀명 :  **알바트로스 팀**
+#  1. 팀 소개
+### ▶️ 팀명 :  **알바트로스 팀**
 
 알바트로스는 날개가 너무 커 뒤뚱뒤뚱 걸어다니는 모습으로 '바보새'라는 별명이 있지만, 현재 세계에서 가장 큰 새이며 
 시속 127km/h로 날아 세계 기네스북에 등재되었습니다. 
@@ -13,11 +13,11 @@
 <br>
 <br>
 
-### - 팀원 소개 
+### ▶️ 팀원 소개 
 |이름|사진|이름|사진|이름|사진|
 |:---|---|:---|---|:---|---|
-|[박지수](https://github.com/0lipa)|<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EA%B9%8C%EC%B9%98.jpg" width="200" height="400"/>|[전상아](https://github.com/sang-a-le)|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EA%B7%B9%EB%9D%BD%EC%A1%B0.jpg' width="200" height="400"/>|[정의중](https://github.com/uii42)|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EC%95%B5%EB%AC%B4%EC%83%88_1.jpg' width="200" height="400"/>|
-|[최동현](https://github.com/donghyun4957)|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EB%84%90%EC%A9%8D%EB%B6%80%EB%A6%AC%ED%99%A9%EC%83%88.jpg' width="200" height="400"/>|[홍문봉](https://github.com/Glowcloudy)|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%ED%99%8D%EB%AC%B8%EB%B4%89.jpg' width="200" height="400"/>|
+|[박지수](https://github.com/0lipa)|<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EA%B9%8C%EC%B9%98.jpg" width="150" height="400"/>|[전상아](https://github.com/sang-a-le)|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EA%B7%B9%EB%9D%BD%EC%A1%B0.jpg' width="150" height="400"/>|[정의중](https://github.com/uii42)|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EC%95%B5%EB%AC%B4%EC%83%88_1.jpg' width="150" height="400"/>|
+|[최동현](https://github.com/donghyun4957)|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EB%84%90%EC%A9%8D%EB%B6%80%EB%A6%AC%ED%99%A9%EC%83%88.jpg' width="150" height="400"/>|[홍문봉](https://github.com/Glowcloudy)|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%ED%99%8D%EB%AC%B8%EB%B4%89.jpg' width="150" height="400"/>|
 
 <br>
 <br>
@@ -26,18 +26,18 @@
 
 # 2. 프로젝트 개요
 
-### - 프로젝트 명 
+### ▶️ 프로젝트 명 
 # **🐸GRIN🐸** – Green + Information
 친환경차(green)에 대한 정보(information)를 제공하는 사이트 제공
 <br>
 <br>
 
-### - 프로젝트 소개 
+### ▶️ 프로젝트 소개 
 연도별 지역별 보조금 변동에 따른 친환경차량 등록 현황 비교 및 친환경차량에 대한 기업 FAQ조회 
 <br>
 <br>
 
-### - 프로젝트 필요성(배경)
+### ▶️ 프로젝트 필요성(배경)
 
 > 자동차  및  이륜차에  의해  배출되는 탄소화합물과  질소화합물이  각각  78%,  35.6%  이며  46%  이상의  미세먼지도  자동차  또는  이륜차가  원인이  되고  있다
 *  대한전기학회 2009년도 제40회 하계학술대회, 2009 July 14, 2009년, pp.949 - 950  
@@ -57,7 +57,7 @@
 <br>
 <br>
 
-### - 프로젝트 목표 
+### ▶️ 프로젝트 목표 
 연도별 친환경차량의 보조금과 신규 친환경 차량 등록 간에 비교를 통해 친환경차량의 캐즘을 벗어나 
 친환경 차량 증가에 영향을 주는 요인 파악
 
@@ -100,7 +100,7 @@
 
 # 7. 수행결과(시연 페이지)
 ##              [STREAMLIT 구현화면]
-## - 연도별, 지역별 친환경 차량 현황 및 보조금 현황 시각화 
+## ▶️ 연도별, 지역별 친환경 차량 현황 및 보조금 현황 시각화 
 
 ![메인](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/1.png)
 <br>
@@ -127,7 +127,7 @@
 <br>
 <br>
 
-## - 기업별 FAQ
+## ▶️ 기업별 FAQ
 ![9](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/9.png)
 <br>
 
