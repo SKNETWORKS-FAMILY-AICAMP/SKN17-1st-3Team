@@ -118,42 +118,63 @@ st.markdown(
 
 st.subheader("원하는 서비스를 선택하세요", divider="rainbow")
 
+if 'mode' not in st.session_state:
+    st.session_state.mode = None
 
+chart_list ={
+    '연도별 지역별 수소차 보조금': r'figure\hd_subsidy_heatmap.png',
+    '연도별 지역별 전기차 보조금': r'figure\ev_subsidy_heatmap.png',
+    '연도별 전기차와 내연기관차 등록대수현황': r'figure\car_eco_cars_linegraph.png',
+    '연도별 지역별 친환경차 등록대수현황': r'figure\ev_cars_heatmap.png',
+    "연도별 지역별 전기차 등록대수현황": r'figure\electronic_car_chart.png',
+    "연도별 지역별 수소차 등록대수현황": r'figure\hydrogen_car_chart.png'
+    }
 
+if 'single_option' not in st.session_state:
+    st.session_state.single_option = list(chart_list.keys())[0]
+
+if 'compare_left' not in st.session_state:
+    st.session_state.compare_left = list(chart_list.keys())[0]
+
+if 'compare_right' not in st.session_state:
+    st.session_state.compare_right = list(chart_list.keys())[1]
 
 col1, col2 = st.columns(2)
 
 with col1:
-    button1 = st.button('하나씩 보기')
+    if st.button('하나씩 보기'):
+        st.session_state.mode = 'single'
 
 with col2:
-    button2 = st.button('비교해서 보기')
+    if st.button('비교해서 보기'):
+        st.session_state.mode = 'compare'
+        st.session_state.compare_left = st.session_state.single_option
 
+if st.session_state.mode == 'single':
+    single_option = st.selectbox(
+        "볼 정보를 선택하세요", 
+        list(chart_list.keys()),
+        index=list(chart_list.keys()).index(st.session_state.single_option)
+    )
+    st.session_state.single_option = single_option
+    st.image(chart_list[single_option], caption=single_option)
 
-if 'button1' not in st.session_state or 'button2' not in st.session_state:
-    st.session_state.button1 = False
-    st.session_state.button2 = False
+elif st.session_state.mode == 'compare':
 
-if button1:
-    st.session_state.button2=False
-    st.session_state.option=''
-if button2:
-    st.session_state.button1=False
-    st.session_state.option=''
+    col_left, col_right = st.columns(2)
 
-chart_list ={
-    '연도별 지역별 수소차 보조금': 'C:\skn_17\git\test\project_streamlit\streamlit_files\images\hd_subsidy_heatmap.png',
-    '연도별 지역별 전기차 보조금': 'C:\skn_17\git\test\project_streamlit\streamlit_files\images\ev_subsidy_heatmap.png',
-    '연도별 전기차와 내연기관차 등록대수현황':'C:\skn_17\git\test\project_streamlit\streamlit_files\images\car & eco cars linegraph.png',
-    '연도별 지역별 친환경차 등록대수현황':'C:\skn_17\git\test\project_streamlit\streamlit_files\images\ev_cars_heatmap.png',
-    '연도별 지역별 전기차 등록대수현황':'',
-    '연도별 지역별 수소차 등록대수현황':''
-    }
+    with col_left:
+        left_option = st.selectbox(
+            "왼쪽 차트 선택", 
+            list(chart_list.keys()),
+            index=list(chart_list.keys()).index(st.session_state.compare_left),
+        )
+        st.image(chart_list[left_option], caption=left_option)
 
-if button1:
-    option = st.selectbox('볼 정보를 선택하세요', chart_list.keys())
-
-    if st.session_state.option !='':
-        st.image(chart_list[option],caption=option)
-    
-
+    with col_right:
+        right_option = st.selectbox(
+            "오른쪽 차트 선택", 
+            list(chart_list.keys()),
+            index=list(chart_list.keys()).index(st.session_state.compare_right),
+        )
+        st.image(chart_list[right_option], caption=right_option)

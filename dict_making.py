@@ -1,7 +1,7 @@
-from project_crawling.FAQ import KIA_FAQ as k
-from project_crawling.FAQ import CHEVROLET_FAQ as c
-from project_crawling.FAQ import BMW_FAQ as b
-from project_crawling.FAQ import POLESTAR_FAQ as p
+from faq import kia_faq as k
+from faq import chevrolet_faq as c
+from faq import bmw_faq as b
+from faq import polestar_faq as p
 
 faq_dict={   
     '브랜드':[],   # kia 0 번, 쉐보레 1번, bmw 2번 polestar 3번 
@@ -15,7 +15,6 @@ b_dict=b.making_faq()
 p_dict=p.making_faq()
 
 dicts=[k_dict,c_dict,b_dict,p_dict]
-
 
 for x in dicts:
     faq_dict['브랜드'].extend(x['브랜드'])
