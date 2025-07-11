@@ -15,9 +15,9 @@
 
 ### - 팀원 소개 
 |이름|사진|이름|사진|이름|사진|
-|---|---|---|---|---|---|
-|박지수|<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EA%B9%8C%EC%B9%98.jpg" width="200" height="400"/>|전상아|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EA%B7%B9%EB%9D%BD%EC%A1%B0.jpg' width="200" height="400"/>|정의중|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EC%95%B5%EB%AC%B4%EC%83%88_1.jpg' width="200" height="400"/>|
-|최동현|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EB%84%90%EC%A9%8D%EB%B6%80%EB%A6%AC%ED%99%A9%EC%83%88.jpg' width="200" height="400"/>|홍문봉|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%ED%99%8D%EB%AC%B8%EB%B4%89.jpg' width="200" height="400"/>|
+|:---|---|:---|---|:---|---|
+|[박지수](https://github.com/0lipa)|<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EA%B9%8C%EC%B9%98.jpg" width="200" height="400"/>|[전상아](https://github.com/sang-a-le)|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EA%B7%B9%EB%9D%BD%EC%A1%B0.jpg' width="200" height="400"/>|[정의중](https://github.com/uii42)|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EC%95%B5%EB%AC%B4%EC%83%88_1.jpg' width="200" height="400"/>|
+|[최동현](https://github.com/donghyun4957)|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%EB%84%90%EC%A9%8D%EB%B6%80%EB%A6%AC%ED%99%A9%EC%83%88.jpg' width="200" height="400"/>|[홍문봉](https://github.com/Glowcloudy)|<img src='https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/%ED%99%8D%EB%AC%B8%EB%B4%89.jpg' width="200" height="400"/>|
 
 <br>
 <br>
@@ -67,9 +67,9 @@
 -----
 
 # 3. 기술 스택
-|Python|MySQL|Github|Pandas|Matplotlib|Streamlit|Selenium|Java script|
-|---|---|---|---|---|---|---|---|
-|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">|<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">|<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">|<img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black'>|<img src='https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white'>|<img src='https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white'>|<img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>|
+|Python|MySQL|Github|Pandas|Matplotlib|Streamlit|Selenium|
+|---|---|:---|---|---|---|---|
+|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">|<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">|<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">|<img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black'>|<img src='https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white'>|<img src='https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white'>|
 
 <br>
 <br>
@@ -77,7 +77,7 @@
 -----
 
 # 4. WBS
-![WBS이미지](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/wbs.png)
+![WBS이미지](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/WBS.png)
 
 <br>
 <br>
@@ -85,8 +85,7 @@
 -----
 
 # 5. 요구사항 명세서
-![요구사항이미지](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/1%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%AA%85%EC%84%B8%EC%84%9C.png)
-
+![요구사항이미지](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%AA%85%EC%84%B8%EC%84%9C.png)
 <br>
 <br>
 
@@ -101,6 +100,42 @@
 -----
 
 # 7. 수행결과(시연 페이지)
+## [STREAMLIT 구현화면]
+### - 연도별, 지역별 친환경 차량 현황 및 보조금 현황 시각화 
+
+![메인](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/1.png)
+<br>
+
+![2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/2.png)
+<br>
+
+![3](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/3.png)
+<br>
+
+![4](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/4.png)
+<br>
+
+![5](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/5.png)
+<br>
+
+![6](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/6.png)
+<br>
+
+![7](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/7.png)
+<br>
+
+![8](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/8.png)
+<br>
+<br>
+
+### - 기업별 FAQ
+![9](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/9.png)
+<br>
+
+![10](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/10.png)
+<br>
+
+![11](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/streamlit/11.png)
 
 <br>
 <br>
@@ -109,6 +144,10 @@
 
 # 8. 한 줄 회고
 |이름|내용|
-|:---|:---:|
+|:---:|:---|
+| 박지수 | 수업에서 배웠던 조각들을 맞춰서 큰 퍼즐을 맞추는 기분이 들었습니다. 크롤링, MySQL 과 python 연동, DDL과 DML 활용 등의  <br> 내용들을 골고루 활용하면서 DDL 파트와 크롤링 파트에서 부족한 점이 있음을 확인했습니다. 반복 작업과 연습, 그리고 팀원의 도움으로 <br>  특히 어려웠던 동적 크롤링 작업을 익숙하게 할 수 있게 되었습니다.|
+| 전상아 | 각 파트별로 수업을 진행하여 해당 파트가 어떤 부분에서 활용되는 지 이해도가 떨어지는 부분이 있었는데, 이번 프로젝트를 진행하면서 <br> 전체적인 흐름을 이해할 수 있었습니다. 프로젝트를 진행하면서 깃허브 연결, 크롤링 등 어려웠던 부분에 대한 부족한 점을 확인했고, <br> readme의 요구사항 명세서, WBS 작성 등 실무에 활용되는 부분을 팀원들과 함께 실습하는 기회를 가져 앞으로 공부 방향성을 확인하는  <br>  기회가 됐습니다.|
+| 정의중 | Scremlit을 이용하여 디자인 통일성과 직관적인 인터페이스 구현을 통해 사용자 경험을 향상시켰고, 크롤링을 통해 데이터 <br> 업데이트 효율성을 높였다. |
+| 최동현 | 팀원들과 같이 일하면서 협업의 효율성을 느꼈고 git을 사용하면서 하나의 통일된 규격의 소스를 개발할 수 있어 유익한 경험이었습니다. |
 | 홍문봉 | 기존 브라우저에서 접속을 해서 쿠키 설정한 것과 무관한 사실을 이번에 처음 알게 되었습니다.<br>해외 사이트 크롤링 시 쿠키 설정 팝업창 관련 코드가 필요함을 절실히 느꼈습니다.|
 
