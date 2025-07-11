@@ -93,7 +93,6 @@
 
 # 6. ERD
 ![1차 프로젝트 ERD](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/1%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20ERD.png)
-
 <br>
 <br>
 
