@@ -77,7 +77,7 @@
 -----
 
 # 4. WBS
-![WBS이미지](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-07-10%20105244.png)
+![WBS이미지](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/wbs.png)
 
 <br>
 <br>
@@ -93,7 +93,7 @@
 -----
 
 # 6. ERD
-![1차 프로젝트 ERD](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/1%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20ERD.png)
+![1차 프로젝트 ERD](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-1st-3Team/blob/main/image/1%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20ERD.png)
 
 <br>
 <br>
